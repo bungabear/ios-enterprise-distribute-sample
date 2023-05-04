@@ -25,5 +25,5 @@ Docker로 예시를 만들어두고자 한다.
 
 ## 실행 방법
 ```
-    docker -it -d -p 3000:30 ios-dist
+    docker -it -d -p 3000:80 ios-dist
 ```
